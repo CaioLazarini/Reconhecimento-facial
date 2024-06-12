@@ -1,3 +1,6 @@
+#install lib opencv-python
+#pip install opencv-python
+
 import cv2
 
 face_classifier = cv2.CascadeClassifier(
