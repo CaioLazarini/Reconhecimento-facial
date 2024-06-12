@@ -1,5 +1,6 @@
 #install lib opencv-python
 #pip install opencv-python
+#use "q" to quit
 
 import cv2
 
